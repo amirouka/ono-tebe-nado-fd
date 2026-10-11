@@ -78,7 +78,7 @@
   z-index: 2;
 }
 
-h1{
+h1 {
     width: 1100x;
     height: 385px;
     padding: 165px 50px 207px 50px;
@@ -97,7 +97,6 @@ h1{
 .accent-span.text-left {
     text-align: left;
 }
-
 
 .accent-span.text-center {
     text-align: center;
@@ -131,7 +130,6 @@ h1{
     color: white;
     padding: 12px 32px 11px 31px;
     text-transform: uppercase;
-
 }
 
 .lots {
@@ -200,8 +198,6 @@ h1{
   font-size: 22px;
   font-weight: bold;
   text-underline-offset: 4px;
-
-  
 }
 
 .card p {
@@ -277,8 +273,7 @@ h1{
 
 .about__text_container_ {
     display: grid;
-    gap: 24px;
-    
+    gap: 24px; 
 }
 
 .about__text {
@@ -304,7 +299,6 @@ h1{
     flex-direction: column;
     width: 264px;
     height: 98px;
-
 }
 
 .footer__links-list {
